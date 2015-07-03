@@ -6,4 +6,5 @@ If you want simple tutorial. Follow the steps below:
 - To send a sample alert pass your message as a argument.
   ```bash
   send-alert.rb 'This is a test alert.'
+  ```
 - Enjoy and Cheers.
